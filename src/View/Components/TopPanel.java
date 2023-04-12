@@ -1,8 +1,7 @@
 package View.Components;
 
 import Controler.Controler;
-import View.MainPanels.InfoPanel;
-import View.MainPanels.ThumbnailPanel;
+import View.MainPanels.*;
 import javax.swing.*;
 import java.awt.*;
 
